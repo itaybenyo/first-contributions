@@ -85,6 +85,7 @@ Aarif Khan
 - [George Bachour] (https://github.com/sgeorgevv)
 - [Hong Xing Jun](https://github.com/xingjun1015)
 - [Michael Stafford](https://github.com/mikestah808)
+- [Itay]
 - [Anurag Raj](https://github.com/anuragraj94)
 - [Shivam Singh](https://github.com/shivamsinghydv)
 - [Dart reider](https://github.com/Dartreidar)
